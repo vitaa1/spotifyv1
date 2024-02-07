@@ -1,0 +1,1 @@
+Projeto desenvolvido durante a imersão alura de uma pagina do spotify utilizando Html, css e javascript.
